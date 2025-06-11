@@ -14,7 +14,7 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 - Monitoring & Feedback: Ensuring performance and reliability.
 - Customer-Centric Action: Prioritizing user satisfaction.
 
-## 2. DevOps Lifecycle Stages
+# 2. DevOps Lifecycle Stages
 
  # ANS
  
